@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generation Progress",
+  "description": "A component that displays the progress of an AI image generation task, featuring a squircle progress bar and time tracking, mimicking a modern UI aesthetic.",
+  "requestFramePermissions": []
+}
